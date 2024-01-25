@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: linear-gradient(to left, red, blue);
+}
+
+h1 {
+    color: red;
+    font-size: 100px;
+}
+
+h2 {
+    color: grey;
+    font-size: 50px;
+}
